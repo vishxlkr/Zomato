@@ -1,0 +1,2 @@
+RIDER
+npx tsc --init          --> for tsconfig file
